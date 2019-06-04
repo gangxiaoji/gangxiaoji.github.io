@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gangxiaoji.github.io/</id>
     <title>纲吉的blog</title>
-    <updated>2019-06-04T11:15:50.308Z</updated>
+    <updated>2019-06-04T11:16:33.520Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gangxiaoji.github.io/"/>
     <link rel="self" href="https://gangxiaoji.github.io//atom.xml"/>
@@ -11,16 +11,16 @@
     <icon>https://gangxiaoji.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 纲吉的blog</rights>
     <entry>
-        <title type="html"><![CDATA[书源分享(长期更新)]]></title>
+        <title type="html"><![CDATA[书源分享]]></title>
         <id>https://gangxiaoji.github.io//post/ifreetime</id>
         <link href="https://gangxiaoji.github.io//post/ifreetime">
         </link>
         <updated>2019-06-04T10:25:14.000Z</updated>
-        <summary type="html"><![CDATA[<h4 id="这里会分享爱阅书香的书源">这里会分享爱阅书香的书源</h4>
+        <summary type="html"><![CDATA[<h4 id="这里会分享爱阅书香的书源长期更新">这里会分享爱阅书香的书源(长期更新)</h4>
 <hr>
 <p>(基本只适用于6.3.1以上版本,即现在的测试版)<br>如有失效或者有想做成书源的网站可以发issue或者群里@我</p>
 ]]></summary>
-        <content type="html"><![CDATA[<h4 id="这里会分享爱阅书香的书源">这里会分享爱阅书香的书源</h4>
+        <content type="html"><![CDATA[<h4 id="这里会分享爱阅书香的书源长期更新">这里会分享爱阅书香的书源(长期更新)</h4>
 <hr>
 <p>(基本只适用于6.3.1以上版本,即现在的测试版)<br>如有失效或者有想做成书源的网站可以发issue或者群里@我</p>
 <!-- more -->
