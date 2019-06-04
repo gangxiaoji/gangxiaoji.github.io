@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gangxiaoji.github.io/</id>
     <title>纲吉的blog</title>
-    <updated>2019-06-04T10:43:20.417Z</updated>
+    <updated>2019-06-04T10:53:51.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gangxiaoji.github.io/"/>
     <link rel="self" href="https://gangxiaoji.github.io//atom.xml"/>
@@ -37,122 +37,92 @@
 <th style="text-align:center">说明</th>
 <th style="text-align:center">搜索</th>
 <th style="text-align:center">书海</th>
-<th style="text-align:center">下载</th>
-<th style="text-align:center">源网站</th>
 </tr>
 </thead>
 <tbody>
 <tr>
-<td style="text-align:center">优书网</td>
+<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/%E4%BC%98%E4%B9%A6%E7%BD%91(%E4%BB%85%E4%B9%A6%E6%B5%B7).ibs">优书网</a></td>
 <td style="text-align:center">功能</br>优书推荐</br>全部分类</br>小说评论</br>每周专题<br>所有书单</br>精品书单</br>最新书单</br>女频书单</br>加入了赤戟的各类型书单</br>只支持6.3.1+也就是现阶段的测试版</br>ps:推荐,书单和书单内容都是动态更新的</td>
 <td style="text-align:center">否</td>
 <td style="text-align:center">是</td>
-<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/%E4%BC%98%E4%B9%A6%E7%BD%91(%E4%BB%85%E4%B9%A6%E6%B5%B7).ibs">下载</a></td>
-<td style="text-align:center">http://www.yousuu.com/</td>
 </tr>
 <tr>
-<td style="text-align:center">思路客(siluke.org)</td>
+<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/%E6%80%9D%E8%B7%AF%E5%AE%A2(siluke.org).ibs">思路客(siluke.org)</a></td>
 <td style="text-align:center">优质书源,更新快</td>
 <td style="text-align:center">是</td>
 <td style="text-align:center">是</td>
-<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/%E6%80%9D%E8%B7%AF%E5%AE%A2(siluke.org).ibs">下载</a></td>
-<td style="text-align:center">http://www.siluke.org</td>
 </tr>
 <tr>
-<td style="text-align:center">诚信小说网</td>
+<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/%E8%AF%9A%E4%BF%A1%E5%B0%8F%E8%AF%B4%E7%BD%91.ibs">诚信小说网</a></td>
 <td style="text-align:center">资源很好,更新快,没有广告</td>
 <td style="text-align:center">是</td>
 <td style="text-align:center">是</td>
-<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/%E8%AF%9A%E4%BF%A1%E5%B0%8F%E8%AF%B4%E7%BD%91.ibs">下载</a></td>
-<td style="text-align:center">http://www.jstnjt.com</td>
 </tr>
 <tr>
-<td style="text-align:center">海岸线</td>
+<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/%E6%B5%B7%E5%B2%B8%E7%BA%BF.ibs">海岸线</a></td>
 <td style="text-align:center">这个emmmmmmm~~~~~~~</td>
 <td style="text-align:center">是</td>
 <td style="text-align:center">是</td>
-<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/%E6%B5%B7%E5%B2%B8%E7%BA%BF.ibs">下载</a></td>
-<td style="text-align:center">~~~~~~</td>
 </tr>
 <tr>
-<td style="text-align:center">知轩藏书</td>
+<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/%E7%9F%A5%E8%BD%A9%E8%97%8F%E4%B9%A6(%E4%BB%85%E4%B9%A6%E6%B5%B7).ibs">知轩藏书</a></td>
 <td style="text-align:center">没什么特殊的,个人比较喜欢的网站</td>
 <td style="text-align:center">否</td>
 <td style="text-align:center">是</td>
-<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/%E7%9F%A5%E8%BD%A9%E8%97%8F%E4%B9%A6(%E4%BB%85%E4%B9%A6%E6%B5%B7).ibs">下载</a></td>
-<td style="text-align:center">http://www.zxcs.me/</td>
 </tr>
 <tr>
-<td style="text-align:center">有毒小说</td>
+<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/%E6%9C%89%E6%AF%92%E5%B0%8F%E8%AF%B4(%E4%BB%85%E4%B9%A6%E6%B5%B7).ibs">有毒小说</a></td>
 <td style="text-align:center">网站不错,但是书基本没有盗版源,喜欢dnd的可以看一下,有源的朋友可以发给我</td>
 <td style="text-align:center">否</td>
 <td style="text-align:center">是</td>
-<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/%E6%9C%89%E6%AF%92%E5%B0%8F%E8%AF%B4(%E4%BB%85%E4%B9%A6%E6%B5%B7).ibs">下载</a></td>
-<td style="text-align:center">https://www.youdubook.com</td>
 </tr>
 <tr>
-<td style="text-align:center">一起看plus</td>
+<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/%E4%B8%80%E8%B5%B7%E7%9C%8Bplus.ibs">一起看plus</a></td>
 <td style="text-align:center">书海:书库分类,排行榜</td>
 <td style="text-align:center">是</td>
 <td style="text-align:center">是</td>
-<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/%E4%B8%80%E8%B5%B7%E7%9C%8Bplus.ibs">下载</a></td>
-<td style="text-align:center">http://www.yqkplus.com</td>
 </tr>
 <tr>
-<td style="text-align:center">悠久小说网</td>
+<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/%E6%82%A0%E4%B9%85%E5%B0%8F%E8%AF%B4%E7%BD%91.ibs">悠久小说网</a></td>
 <td style="text-align:center">还行吧</td>
 <td style="text-align:center">是</td>
 <td style="text-align:center">否</td>
-<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/%E6%82%A0%E4%B9%85%E5%B0%8F%E8%AF%B4%E7%BD%91.ibs">下载</a></td>
-<td style="text-align:center">https://www.ujxs.com/</td>
 </tr>
 <tr>
-<td style="text-align:center">大海中文网</td>
+<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/%E5%A4%A7%E6%B5%B7%E4%B8%AD%E6%96%87%E7%BD%91.ibs">大海中文网</a></td>
 <td style="text-align:center">火的小说还行</td>
 <td style="text-align:center">是</td>
 <td style="text-align:center">否</td>
-<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/%E5%A4%A7%E6%B5%B7%E4%B8%AD%E6%96%87%E7%BD%91.ibs">下载</a></td>
-<td style="text-align:center">https://www.dhzw.org/</td>
 </tr>
 <tr>
-<td style="text-align:center">闪舞小说</td>
+<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/%E9%97%AA%E8%88%9E%E5%B0%8F%E8%AF%B4.ibs">闪舞小说</a></td>
 <td style="text-align:center">日常</td>
 <td style="text-align:center">是</td>
 <td style="text-align:center">否</td>
-<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/%E9%97%AA%E8%88%9E%E5%B0%8F%E8%AF%B4.ibs">下载</a></td>
-<td style="text-align:center">http://35xs.com/</td>
 </tr>
 <tr>
-<td style="text-align:center">熊掌追书</td>
+<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/%E7%86%8A%E6%8E%8C%E8%BF%BD%E4%B9%A6.ibs">熊掌追书</a></td>
 <td style="text-align:center">日常</td>
 <td style="text-align:center">是</td>
 <td style="text-align:center">否</td>
-<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/%E7%86%8A%E6%8E%8C%E8%BF%BD%E4%B9%A6.ibs">下载</a></td>
-<td style="text-align:center">http://xgssvip.com/</td>
 </tr>
 <tr>
-<td style="text-align:center">在线阅读网</td>
+<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB%E7%BD%91.ibs">在线阅读网</a></td>
 <td style="text-align:center">日常</td>
 <td style="text-align:center">是</td>
 <td style="text-align:center">否</td>
-<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB%E7%BD%91.ibs">下载</a></td>
-<td style="text-align:center">http://www.yuedu88.com/</td>
 </tr>
 <tr>
-<td style="text-align:center">38小说</td>
+<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/38%E5%B0%8F%E8%AF%B4.ibs">38小说</a></td>
 <td style="text-align:center">日常</td>
 <td style="text-align:center">是</td>
 <td style="text-align:center">否</td>
-<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/38%E5%B0%8F%E8%AF%B4.ibs">下载</a></td>
-<td style="text-align:center">https://www.38kanshu.com/</td>
 </tr>
 <tr>
-<td style="text-align:center">100本网</td>
+<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/100%E6%9C%AC%E7%BD%91.ibs">100本网</a></td>
 <td style="text-align:center">日常</td>
 <td style="text-align:center">是</td>
 <td style="text-align:center">否</td>
-<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/100%E6%9C%AC%E7%BD%91.ibs">下载</a></td>
-<td style="text-align:center">https://www.100ben.net/</td>
 </tr>
 </tbody>
 </table>
