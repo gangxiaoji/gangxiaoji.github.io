@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gangxiaoji.github.io/</id>
     <title>纲吉的blog</title>
-    <updated>2019-06-04T13:39:17.916Z</updated>
+    <updated>2019-06-04T13:43:22.932Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gangxiaoji.github.io/"/>
     <link rel="self" href="https://gangxiaoji.github.io//atom.xml"/>
@@ -17,7 +17,9 @@
         </link>
         <updated>2019-06-04T13:27:08.000Z</updated>
         <content type="html"><![CDATA[<h2 id="这就是一个咸鱼的blog">这就是一个咸鱼的blog</h2>
-<h2 id="会更新爱阅书香的书源之后也会做一些mac上得软件推荐和一些技术并不文章">会更新爱阅书香的书源,之后也会做一些mac上得软件推荐和一些技术(并不)文章.</h2>
+<hr>
+<h4 id="会更新爱阅书香的书源之后也会做一些mac上得软件推荐和一些技术并不文章">会更新爱阅书香的书源,之后也会做一些mac上得软件推荐和一些技术(并不)文章.</h4>
+<hr>
 <blockquote>
 <p>可能会做的:</p>
 </blockquote>
