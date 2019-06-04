@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gangxiaoji.github.io/</id>
     <title>纲吉的blog</title>
-    <updated>2019-06-04T10:56:00.205Z</updated>
+    <updated>2019-06-04T10:58:17.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gangxiaoji.github.io/"/>
     <link rel="self" href="https://gangxiaoji.github.io//atom.xml"/>
@@ -11,7 +11,7 @@
     <icon>https://gangxiaoji.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 纲吉的blog</rights>
     <entry>
-        <title type="html"><![CDATA[爱阅书香]]></title>
+        <title type="html"><![CDATA[爱阅书香书源分享(长期更新)]]></title>
         <id>https://gangxiaoji.github.io//post/ifreetime</id>
         <link href="https://gangxiaoji.github.io//post/ifreetime">
         </link>
@@ -23,7 +23,7 @@
 <li>导入书源的三种种方式:
 <ul>
 <li>1.一键导入(<a href="https://xgg.kim/t5N83">点击导入</a>)</li>
-<li>2.复制括号内的内容打开爱阅书香-右上角书源配置-同步-粘贴-获取书源配置(https://github.com/gangxiaoji/bookConfigs)</li>
+<li>2.复制括号内的内容打开爱阅书香-右上角书源配置-同步-粘贴-获取书源配置<br>(https://github.com/gangxiaoji/bookConfigs)</li>
 <li>3.下载书源后选择使用爱阅打开(点击书源名可下载)</li>
 </ul>
 </li>
