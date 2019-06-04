@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gangxiaoji.github.io/</id>
     <title>纲吉的blog</title>
-    <updated>2019-06-04T13:46:22.281Z</updated>
+    <updated>2019-06-04T13:47:21.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gangxiaoji.github.io/"/>
     <link rel="self" href="https://gangxiaoji.github.io//atom.xml"/>
@@ -10,48 +10,6 @@
     <logo>https://gangxiaoji.github.io//images/avatar.png</logo>
     <icon>https://gangxiaoji.github.io//favicon.ico</icon>
     <rights>All rights reserved 2019, 纲吉的blog</rights>
-    <entry>
-        <title type="html"><![CDATA[关于本站的一点说明]]></title>
-        <id>https://gangxiaoji.github.io//post/log</id>
-        <link href="https://gangxiaoji.github.io//post/log">
-        </link>
-        <updated>2019-06-04T13:27:08.000Z</updated>
-        <content type="html"><![CDATA[<h2 id="这就是一个咸鱼的blog">这就是一个咸鱼的blog</h2>
-<hr>
-<h4 id="会更新爱阅书香的书源之后也会做一些mac上得软件推荐和一些技术并不文章">会更新爱阅书香的书源,之后也会做一些mac上得软件推荐和一些技术(并不)文章.</h4>
-<hr>
-<blockquote>
-<p>可能会做的:</p>
-</blockquote>
-<ul>
-<li>
-<blockquote>
-<p>精品软件的推荐(mac+win+ios)</p>
-</blockquote>
-</li>
-<li>
-<blockquote>
-<p>php及python方面的一下技术帖子(大概)</p>
-</blockquote>
-</li>
-<li>
-<blockquote>
-<p>可能做搬运一些破解软件和技术贴吧(对,搬运,因为我不会←_←)</p>
-</blockquote>
-</li>
-<li>
-<blockquote>
-<p>.....~~~~~</p>
-</blockquote>
-</li>
-<li>
-<blockquote>
-<p>最后说一下,我就是个咸鱼,以上都是想法,不一定有行动(233333~)</p>
-</blockquote>
-</li>
-</ul>
-]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[书源分享]]></title>
         <id>https://gangxiaoji.github.io//post/ifreetime</id>
