@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gangxiaoji.github.io/</id>
     <title>彭格列万事屋</title>
-    <updated>2019-06-15T13:10:00.275Z</updated>
+    <updated>2019-06-16T02:46:12.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gangxiaoji.github.io/"/>
     <link rel="self" href="https://gangxiaoji.github.io//atom.xml"/>
@@ -73,12 +73,6 @@
 <td style="text-align:center">否</td>
 </tr>
 <tr>
-<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/%E4%B8%80%E8%B5%B7%E7%9C%8Bplus.ibs">一起看plus</a></td>
-<td style="text-align:center">书海:书库分类,排行榜</td>
-<td style="text-align:center">是</td>
-<td style="text-align:center">是</td>
-</tr>
-<tr>
 <td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/%E6%82%A0%E4%B9%85%E5%B0%8F%E8%AF%B4%E7%BD%91.ibs">悠久小说网</a></td>
 <td style="text-align:center">还行吧</td>
 <td style="text-align:center">是</td>
@@ -103,6 +97,18 @@
 <td style="text-align:center">是</td>
 </tr>
 <tr>
+<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/100%E6%9C%AC%E7%BD%91.ibs">100本网</a></td>
+<td style="text-align:center">文学类</td>
+<td style="text-align:center">是</td>
+<td style="text-align:center">否</td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB%E7%BD%91.ibs">在线阅读网</a></td>
+<td style="text-align:center">文学类</td>
+<td style="text-align:center">是</td>
+<td style="text-align:center">否</td>
+</tr>
+<tr>
 <td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/%E9%97%AA%E8%88%9E%E5%B0%8F%E8%AF%B4.ibs">闪舞小说</a></td>
 <td style="text-align:center">日常</td>
 <td style="text-align:center">是</td>
@@ -115,19 +121,7 @@
 <td style="text-align:center">否</td>
 </tr>
 <tr>
-<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/%E5%9C%A8%E7%BA%BF%E9%98%85%E8%AF%BB%E7%BD%91.ibs">在线阅读网</a></td>
-<td style="text-align:center">日常</td>
-<td style="text-align:center">是</td>
-<td style="text-align:center">否</td>
-</tr>
-<tr>
 <td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/38%E5%B0%8F%E8%AF%B4.ibs">38小说</a></td>
-<td style="text-align:center">日常</td>
-<td style="text-align:center">是</td>
-<td style="text-align:center">否</td>
-</tr>
-<tr>
-<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/100%E6%9C%AC%E7%BD%91.ibs">100本网</a></td>
 <td style="text-align:center">日常</td>
 <td style="text-align:center">是</td>
 <td style="text-align:center">否</td>
