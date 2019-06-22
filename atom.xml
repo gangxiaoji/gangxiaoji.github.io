@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://gangxiaoji.github.io/</id>
     <title>彭格列万事屋</title>
-    <updated>2019-06-19T06:05:26.681Z</updated>
+    <updated>2019-06-22T13:11:37.880Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gangxiaoji.github.io/"/>
     <link rel="self" href="https://gangxiaoji.github.io//atom.xml"/>
@@ -63,6 +63,12 @@
 <tr>
 <td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/%E6%96%B0%E7%AC%94%E8%B6%A3%E9%98%81.ibs">新笔趣阁</a></td>
 <td style="text-align:center">书友推荐,看了一下还可以,对比了一下应该没人做(大概吧)</td>
+<td style="text-align:center">是</td>
+<td style="text-align:center">否</td>
+</tr>
+<tr>
+<td style="text-align:center"><a href="https://github.com/gangxiaoji/bookConfigs/raw/master/%E6%89%8B%E6%89%93%E5%90%A7%E5%B0%8F%E8%AF%B4%E7%BD%91.ibs">手打吧小说网</a></td>
+<td style="text-align:center">书源不错,更新也很快</td>
 <td style="text-align:center">是</td>
 <td style="text-align:center">否</td>
 </tr>
